@@ -1,0 +1,28 @@
+1.创建仓库：visual SVN- manager管理者-repositories仓库-create new repositories
+2.读写许可 
+    仓库名右键-properties-add-create user-设置许可
+
+3.改变用户
+    文件夹右键-tortoise-setting-saved Data-Authentication-clear all
+
+
+4.updata to version 版本回退
+
+
+ 
+
+5.get locked 锁住就不能修改
+
+
+
+6.报错（is already locked）-clear up-breaks write locaks勾上
+
+
+
+7.解决冲突
+冲突文件-//里面的东西都删除-保留你需要留下来的
+把冲突报错文件删掉
+
+
+svn commit 
+svn update
